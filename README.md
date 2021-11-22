@@ -6,7 +6,7 @@
 
 **A passionate Developer Experience Engineer (Software Developer/Community Builder/Event Facilitator/Open source Contributor)** 
 
-I enjoy building web applications with Ruby on Rails.
+I enjoy building web applications with Nodejs and Ruby on Rails.
 
 I lead a  non-profit organization Hyperspace which is centred on empowering student developers in Africa to **build actual stuffs** through hackathons and learnables.
 
