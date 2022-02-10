@@ -1,7 +1,7 @@
 ### Hi, I'm Iphie 👋 ✨👩🏾•💻
 
 
-**A passionate Backend Engineer (Software Engineer/Customer/Developer Experience Engineer| Community Builder/Event Facilitator/Open source Contributor)** 
+**A passionate Backend Engineer (Software/Customer/Developer-Experience Engineer| Community-Builder/Event-Facilitator/Open-source-Contributor)** 
 
 I enjoy building web applications with Nodejs, Typescript and Ruby on Rails.
 
