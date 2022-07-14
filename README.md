@@ -5,7 +5,7 @@
 
 I enjoy building web applications with Nodejs, Typescript and Ruby on Rails, currently deep diving into the blockchain world.
 
-I lead a  non-profit organization Hyperspace which is centred on empowering student developers in Africa to **build actual stuffs** through hackathons and learnables.
+I lead a  non-profit organization Hyperspace which is centred on empowering student developers in Africa to **build actual stuffs** through hackathons and learnables for social good.
 
 🔭  I also organize community events and workshops and mentor women from underepresented communities and also an active contributor in open source projects.
 
