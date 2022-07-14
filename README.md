@@ -9,12 +9,6 @@ I lead a  non-profit organization Hyperspace which is centred on empowering stud
 
 🔭  I also organize community events and workshops and mentor women from underepresented communities and also an active contributor in open source projects.
 
-On the side, I run a show with GitHub Education called "Tech it with Iphie", here I talk about everything technology - ranging from career paths to landing a tech
-
-job, finding balance and leading in the industry. I also invite guests to the show to talk about their experiences and technical advices for the audience. If you
-
-want to follow the show - See the schedule [here](https://www.twitch.tv/githubeducation/schedule). it happens every Friday 7pm Wat.
-
 ***
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Iphytech&label=PROFILE+VIEWS" alt="Iphytech" /> 
