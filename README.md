@@ -1,43 +1,19 @@
 ### Hi, I'm Iphie 👋 ✨👩🏾•💻
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ifunanya-ikemma-75698490)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ifunanya-ikemma)
 
 😄 Pronouns: ... She/her
 
 
-**A passionate Software Engineer - Backend/Customer/Developer-Experience Engineer | Community-Builder/Event-Facilitator/Open-source-Contributor) and Blockchain Enthusiast** 
+A passionate and dedicated Software Engineer with a strong focus on backend development, customer satisfaction, and developer experience. With expertise in Node.js, Nest.js, Typescript, and Ruby on Rails, Iphie thrives in building robust and scalable applications.
 
-I enjoy building web applications with Nodejs, Nestjs, Typescript and Ruby on Rails, currently deep diving into the blockchain world.
+Beyond her technical skills, Iphie is also a community builder and event facilitator, striving to bring people together and foster collaboration. She actively organizes community events and workshops, creating spaces for learning and growth. Additionally, Iphie is committed to empowering women from underrepresented communities by serving as a mentor.
 
-I lead a  non-profit organization Hyperspace which is centred on empowering student developers in Africa to **build actual stuffs** through hackathons and learnables for social good.
+One of Iphie's notable accomplishments is her leadership role in a non-profit organization called Hyperspace. Hyperspace aims to empower student developers in Africa by providing them with opportunities to build tangible projects through hackathons and learnables for social good. Through this initiative, Iphie enables young talents to unleash their creativity and make a positive impact on society.
 
-🔭  I also organize community events and workshops and mentor women from underepresented communities and also an active contributor in open source projects.
+Furthermore, Iphie is an active contributor to various open-source projects. She believes in the power of collaboration and giving back to the developer community. By contributing her expertise and knowledge, Iphie helps shape the future of open-source software.
+
+Driven by a passion for technology and a desire to make a difference, Iphie embodies the spirit of a well-rounded engineer, community advocate,developer experince, and mentor. With her diverse skill set and dedication to empowering others, Iphie continues to inspire and bring positive change to the world of software development.
 
 ***
-<!--
- <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Iphytech&label=PROFILE+VIEWS" alt="Iphytech" /> 
-</p>
-
-<p align="left">	  
- <a href="https://Iphytech.github.io/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2FIphytech.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HOME+PAGE+VIEWS&edge_flat=false"/></a>
-</p>	
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Iphytech&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
-
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iphytech&hide=scss&layout=compact&theme=tokyonight)
-
-# Blog
-[![Readme Card](https://user-images.githubusercontent.com/16593266/154061972-dfbd1631-74bf-4302-a162-a0004f822d22.png)](https://iphytech.github.io/2022/02/14/what-is-a-blockchain.html)
--->
-<code><img height="27" src="https://user-images.githubusercontent.com/50735025/111870008-26005880-89a8-11eb-9da3-09faf8c80f9e.png" alt="javascript"></code>
-<code><img height="27" src="https://user-images.githubusercontent.com/50735025/111870097-b048bc80-89a8-11eb-9cb4-d679c3f8bce5.png" alt="typescript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-
-
 
