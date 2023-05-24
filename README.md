@@ -5,7 +5,7 @@
 😄 Pronouns: ... She/her
 
 
-A passionate and dedicated Software Engineer with a strong focus on backend development, customer satisfaction, and developer experience. With expertise in Node.js, Nest.js, Typescript, and Ruby on Rails, Iphie thrives in building robust and scalable applications.
+A passionate and dedicated Software Engineer with a strong focus on backend development, customer engineering, and developer experience. With expertise in Node.js, Nest.js, Typescript, and Ruby on Rails, Iphie thrives in building robust and scalable applications.
 
 Beyond her technical skills, Iphie is also a community builder and event facilitator, striving to bring people together and foster collaboration. She actively organizes community events and workshops, creating spaces for learning and growth. Additionally, Iphie is committed to empowering women from underrepresented communities by serving as a mentor.
 
