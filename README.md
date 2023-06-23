@@ -1,9 +1,9 @@
-### Hi, I'm Iphie 👋 ✨👩🏾•💻
-
+### Hello there, I'm Iphie 👋 ✨👩🏾•💻
+<!--
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ifunanya-ikemma)
 
 😄 Pronouns: ... She/her
-
+-->
 
 A passionate and dedicated Software Engineer with a strong focus on backend development, customer engineering, and developer experience. With expertise in Node.js, Nest.js, Typescript, and Ruby on Rails, Iphie thrives in building robust and scalable applications.
 
