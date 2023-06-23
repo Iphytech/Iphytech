@@ -11,9 +11,9 @@ Beyond her technical skills, Iphie is also a community builder and event facilit
 
 One of Iphie's notable accomplishments is her leadership role in a non-profit organization called Hyperspace. Hyperspace aims to empower student developers in Africa by providing them with opportunities to build tangible projects through hackathons and learnables for social good. Through this initiative, Iphie enables young talents to unleash their creativity and make a positive impact on society.
 
-Furthermore, Iphie is an active contributor to various open-source projects. She believes in the power of collaboration and giving back to the developer community. By contributing her expertise and knowledge, Iphie helps shape the future of open-source software.
+Iphie is an active contributor to various open-source projects. She believes in the power of collaboration and giving back to the developer community. By contributing her expertise and knowledge, Iphie helps shape the future of open-source software.
 
-Driven by a passion for technology and a desire to make a difference, Iphie embodies the spirit of a well-rounded engineer, community advocate,developer experince, and mentor. With her diverse skill set and dedication to empowering others, Iphie continues to inspire and bring positive change to the world of software development.
+Driven by a passion for technology and a desire to make a difference, Iphie embodies the spirit of a well-rounded engineer, community advocate, developer experience, and mentor. With her diverse skill set and dedication to empowering others, Iphie continues to inspire and bring positive change to the world of software development.
 
 ***
 
